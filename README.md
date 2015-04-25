@@ -1,3 +1,2 @@
-# hello-world
-My first repository on GitHub.
-Test 123
+# 第一次使用說明
+學習+討論
